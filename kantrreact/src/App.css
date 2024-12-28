@@ -1,0 +1,20 @@
+.logo-container {
+  position: fixed; /* Positionner par rapport à la fenêtre */
+  top: 0; /* En haut */
+  left: 0; /* À gauche */
+  padding: 10px; /* Espace autour du contenu */
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.app-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.custom-margin-top {
+  margin-top: 120px; /* Adjust for more space */
+}
